@@ -1,4 +1,4 @@
-# 📡 ARDUINO LoRa Test: 🤖
+# 📡 LoRarduino 🤖
 
 To send messages between two Arduino Nanos using LoRa-02 SX1278 modules, you'll need to connect the modules to the Arduinos and set up the necessary software libraries. Here's a step-by-step guide with some interesting info and emojis to make it look better:
 
