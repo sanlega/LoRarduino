@@ -37,3 +37,5 @@ To send messages between two Arduino Nanos using LoRa-02 SX1278 modules, you'll 
    Power both Arduino Nanos 🔌 and open their respective Serial Monitors. 🖥️ The transmitter should display "Sending packet: Hello world!" every 5 seconds ⏱️, while the receiver should display the received message 📨 and the RSSI (Received Signal Strength Indicator) value. 📶
 
 You should now have a basic communication setup between two Arduino Nanos using LoRa-02 SX1278 modules. 🎉 You can further customize the code to send and receive different types of data or implement additional features, such as error correction or encryption. 🔐
+
+# WORK IN PROGRESS... ⚙️
