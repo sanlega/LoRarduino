@@ -13,7 +13,7 @@ void setup() {
 
   LoRa.setPins(csPin, resetPin, irqPin);
 
-  if (!LoRa.begin(915E6)) {
+  if (!LoRa.begin(433E6)) {
     Serial.println("Starting LoRa failed!");
     while (1);
   }
